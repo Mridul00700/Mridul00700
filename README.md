@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mridul
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on React JS / JavaScript / HTML / CSS / Python / SSR
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working on React JS | JavaScript | HTML | CSS | Python | SSR | Node
 - 📫 You can reach me on mridulmishra1995@gmail.com
 
 <!---
